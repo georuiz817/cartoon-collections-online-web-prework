@@ -24,7 +24,7 @@ end
  
 
 def find_the_cheese(cheddar_cheese)
- cheddar_cheese.include?(cheese_types)
+ cheddar_cheese.include?("cheddar")
  cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
