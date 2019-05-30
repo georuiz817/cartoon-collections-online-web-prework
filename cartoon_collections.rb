@@ -12,9 +12,6 @@ def summon_captain_planet(planeteer_calls)
    end 
  end 
 
-
-
-
 def long_planeteer_calls(calls_long)
   i = 4 
   if i < calls_long.length 
@@ -25,7 +22,6 @@ def long_planeteer_calls(calls_long)
 end
   
  
-
 
 def find_the_cheese# code an argument here
   # the array below is here to help
